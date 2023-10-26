@@ -4,7 +4,7 @@
 
 ### Overview
 
-DHCP is a network management protocol that automates the assignment of IP addresses and other network configuration parameters to devices on a network. It simplifies network administration and reduces the likelihood of configuration errors.
+DHCP is a network management protocol that automates the assignment of IP addresses and other network configuration parameters to devices on a network. It simplifies network administration and reduces the likelihood of configuration errors. I have also undertaken LinkedIn Learning Courses in this.
 
 ### Key Concepts
 
